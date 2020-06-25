@@ -130,3 +130,5 @@ dmypy.json
 
 /maps
 /subscribe/simulations
+*.json
+*.png
